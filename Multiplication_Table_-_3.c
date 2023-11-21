@@ -9,4 +9,4 @@ int main()
        printf("%d x %d = %d
 ",N,i,c);
     }
-}
+} 
